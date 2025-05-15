@@ -7,8 +7,6 @@ In this repository, I’m going to automate one of the business’s (SepidSeyste
 
 # Biz Flow Tests
 
-این ریپو شامل تست اتوماسیون فلوهای اصلی سایت با Playwright است
-
 
 
 
