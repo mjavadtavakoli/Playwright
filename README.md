@@ -39,7 +39,7 @@ This repository contains **end-to-end test automation** for key business flows u
 
 ## 🛠️ Tech Stack
 
-- 🎭 Playwright (JavaScript)
+- 🎭 Playwright (TypeScript)
 - 🟢 Node.js
 - 🧪 Jest-style testing syntax
 - ☁️ GitHub Actions ready
