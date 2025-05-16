@@ -40,7 +40,7 @@ This repository contains **end-to-end test automation** for key business flows u
 
 ## ✅ Current Tested Flows
 
-- 🔐 Login Flow (`/login`)
+- 🔐  Happy path (`Monky test`)
 - 🛒 [Add other flows here as they are implemented]
 
 ---
